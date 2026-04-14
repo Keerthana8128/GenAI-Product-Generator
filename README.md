@@ -20,3 +20,7 @@ This project uses OpenAI API and prompt engineering techniques to generate struc
 ```bash
 pip install -r requirements.txt
 python app.py
+
+## 📸 Demo
+
+![Project Output](screenshot.png)
